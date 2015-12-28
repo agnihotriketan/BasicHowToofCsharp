@@ -1,0 +1,7 @@
+D:\MyGit\AjaxPlugin\ajaxPlugin\BasicHowToofCsharp\BasicHowToofCsharp\bin\Debug\BasicHowToofCsharp.exe.config
+D:\MyGit\BasicHowToofCsharp\BasicHowToofCsharp\bin\Debug\BasicHowToofCsharp.exe.config
+D:\MyGit\BasicHowToofCsharp\BasicHowToofCsharp\bin\Debug\BasicHowToofCsharp.exe
+D:\MyGit\BasicHowToofCsharp\BasicHowToofCsharp\bin\Debug\BasicHowToofCsharp.pdb
+D:\MyGit\BasicHowToofCsharp\BasicHowToofCsharp\obj\Debug\BasicHowToofCsharp.csprojResolveAssemblyReference.cache
+D:\MyGit\BasicHowToofCsharp\BasicHowToofCsharp\obj\Debug\BasicHowToofCsharp.exe
+D:\MyGit\BasicHowToofCsharp\BasicHowToofCsharp\obj\Debug\BasicHowToofCsharp.pdb
